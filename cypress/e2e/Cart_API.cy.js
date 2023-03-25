@@ -88,7 +88,7 @@ describe('Technical Test Cart API', function() {
     })
   })
 
-  it('Home page Game', () => {
+  it('Game', () => {
     cy.log(mobileUrl)
     cy.visit(mobileUrl)
     cy.frameLoaded('.lc-iframe')
