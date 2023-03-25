@@ -5,5 +5,9 @@
 
 - [ ] nodejs installed
 
+```
 npm install
+
 npx cypress open
+
+```
