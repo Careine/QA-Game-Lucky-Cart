@@ -1,0 +1,17 @@
+{
+  "name": "technical-test",
+  "version": "1.0.0",
+  "description": "Technical Test Cart API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.8.1"
+  },
+  "devDependencies": {
+    "cypress-iframe": "^1.0.1"
+  }
+}
